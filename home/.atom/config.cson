@@ -1,0 +1,20 @@
+"*":
+  "atom-beautify":
+    ruby:
+      indent_size: 2
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "gruvbox-plus-syntax"
+    ]
+  "exception-reporting":
+    userId: "db28c12b-fde9-4166-aea1-536d75b04a3a"
+  welcome:
+    showOnStartup: false
+  editor:
+    backUpBeforeSaving: true
+    scrollPastEnd: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    zoomFontWhenCtrlScrolling: true
